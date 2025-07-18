@@ -1,3 +1,0 @@
-## personal site
-
-first repo
