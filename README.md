@@ -1,5 +1,5 @@
 
-<!DOCTYPEHTML>
+<!DOCTYPE HTML>
 <html>
   <head>
     <title>Personal Site</title>
